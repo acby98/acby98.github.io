@@ -1,0 +1,41 @@
+title{
+		font-size: 16px;
+		font-weight: bold;
+		font-family: Arial;
+}
+
+body {
+		font-family: Arial;
+		font-size: 12px;
+		text-align: left;
+}
+
+h1{
+	font-size: 14px;
+	font-weight: bold;
+}
+#school1 {
+	font-weight: bold;
+}
+#school2 {
+	font-weight: bold;
+}
+h2{
+	font-size: 14px;
+	font-weight: bold;
+}
+#experience1 {
+	font-weight: bold;
+}
+#experience2 {
+	font-weight: bold;
+}
+h3{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+h4{
+	font-size: 14px;
+	font-weight: bold;
+}
