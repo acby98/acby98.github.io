@@ -21,3 +21,8 @@ h2, h3, h4, h5{
 #experience1, #experience2, #school1, #school2 {
 	font-weight: bold;
 }
+
+#image {
+	width: 20%;
+	height: 20%;
+}
